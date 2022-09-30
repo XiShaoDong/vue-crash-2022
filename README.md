@@ -12,7 +12,7 @@ npm install
 ```
 npm run serve
 ```
-##Before run the serve please run the backend DB first 
+## Before run the serve please run the backend DB first 
 ### Run the data base 
 ```
 npm run backend
